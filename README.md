@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play with AI Tools and Fan of IoT Devices
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeetmajumdar648/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeet-majumdar648/)
 
 
 <!-- Working Experience -->
@@ -27,9 +27,9 @@
 - 👨‍💻 Web Developer Intern at [CoderCave]
 - Campus Executive at [E-Cell IIT-Bomaby](https://ecell.in/)
 - Campus Ambassador at [IMUN]
+<br />
 
-
-<!-- Languages and Tools Section -->
+<!-- Languages and Tools Section 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/jeetmajumdar2003/jeetmajumdar2003/main/assets/vscode.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/jeetmajumdar2003/jeetmajumdar2003/main/assets/html.png" />]
@@ -49,6 +49,7 @@
 [<img align="left" alt="JeetMajumdar2003 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="JeetMajumdar2003 | YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />][youtube]
 [<img align="left" alt="JeetMajumdar2003 | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />][spotify]
+-->
 
 <br />
 <br />
@@ -58,33 +59,34 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jeetmajumdar2003&show_icons=true&hide_border=true" />
 </details>
-
+<br />
 <!-- top programming languages -->
 <details>
   <summary>:zap: Top Languages</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetmajumdar2003" />
 </details>
-
+<br />
 <!-- GitHub Activity -->
 <details>
   <summary>:zap: GitHub Activity</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jeetmajumdar2003&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true" />
 </details>
-
+<br />
 <!-- GitHub Streak -->
 <details>
   <summary>:zap: GitHub Streak</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetmajumdar2003&theme=dark" />
 </details>
-
+<br />
 <!-- GitHub Trophies -->
 <details>
   <summary>:zap: GitHub Trophies</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=jeetmajumdar2003&theme=darkhub" />
 </details>
-
+<br />
 <!-- GitHub Readme Stats -->
 <details>
   <summary>:zap: GitHub Readme Stats</summary>
   <img align="left" alt="JeetMajumdar2003's GitHub Readme Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=jeetmajumdar2003&repo=github-readme-stats" />
 </details>
+<br />
