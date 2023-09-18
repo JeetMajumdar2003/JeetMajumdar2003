@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Jeet Majumdar, a 17 year old Software developer and AI Dev from India.
+## I'm Jeet Majumdar, a 19 year old Software developer and AI Dev from India.
 
 ### I'm a Student, and a Developer!
 
