@@ -40,10 +40,14 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=dark&show_icons=true&count_private=true"  />
     </div>
   <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JeetMajumdar2003&no-bg=true&no-frame=false&theme=dracula&margin-w=5" height="180" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetMajumdar2003&hide_title=false&theme=redical&radius=20" height="300" alt="activity-graph graph"  />
 </div>
+
+### 
+## 🧑‍💻 LeetCode Stats:
+  ![LeetCode Stats](https://leetcode.card.workers.dev/jeetleet07?theme=dark&font=baloo&extension=null)
 
    <!--machine-learning-->
 ```mermaid
@@ -198,6 +202,9 @@ graph TD;
 <div align="center">
   <a href="https://www.linkedin.com/in/jeet-majumdar648/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/u/Jeetleet07/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" width="42" height="30" alt="Leetcode logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   <a href="https://x.com/codejeetXtech01" target="_blank">
