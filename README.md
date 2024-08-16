@@ -223,7 +223,7 @@ graph TD;
 ###
 
 ## 📛 My Badges: 
-<!-- <a href="https://app.daily.dev/jeetmxdev"><img src="https://api.daily.dev/devcards/v2/CAXtWnti4wrgmMvJTIP1X.png?type=wide&r=z9f" width="652" alt="Jeet Majumdar's Dev Card"/></a> -->
+<a href="https://app.daily.dev/jeetmxdev"><img src="https://api.daily.dev/devcards/v2/CAXtWnti4wrgmMvJTIP1X.png?type=wide&r=z9f" width="652" alt="Jeet Majumdar's Dev Card"/></a>
 [![An image of @jeetu007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeetu007)](https://holopin.io/@jeetu007)
 
 <br clear="both">
