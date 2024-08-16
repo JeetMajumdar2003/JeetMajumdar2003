@@ -40,7 +40,7 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=dark&show_icons=true&count_private=true"  />
     </div>
   <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=blue-green&locale=en&hide_title=false&card_width=300&langs_count=5&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JeetMajumdar2003&no-bg=true&no-frame=false&theme=dracula&margin-w=5" height="180" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetMajumdar2003&hide_title=false&theme=redical&radius=20" height="300" alt="activity-graph graph"  />
 </div>
