@@ -10,10 +10,11 @@
 
 <p align="center">
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/graphs/contributors"><img src="https://img.shields.io/github/contributors/JeetMajumdar2003/JeetMajumdar2003?color=blue"></a>
-    <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/stargazers"><img src="https://img.shields.io/github/stars/JeetMajumdar2003/JeetMajumdar2003.svg?logo=github"></a>
+    <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/stargazers"><img src="https://img.shields.io/github/stars/JeetMajumdar2003?logo=github"></a>
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/network/members"><img src="https://img.shields.io/github/forks/JeetMajumdar2003/JeetMajumdar2003.svg?color=blue&logo=github"></a>
+    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/JeetMajumdar2003/JeetMajumdar2003">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JeetMajumdar2003.JeetMajumdar2003&left_text=Profile%20Visitors:" alt="visitors"/>   
 </p>
 
@@ -37,17 +38,17 @@
 
 <div align="left">
     <div align="left">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=dark&show_icons=true&count_private=true"  />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=transparent&show_icons=true&count_private=true&include_all_commits=true"  />
     </div>
-  <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=blue-green&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />  <!-- theme=prussian -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=transparent&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JeetMajumdar2003&no-bg=true&no-frame=false&theme=dracula&margin-w=5" height="180" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetMajumdar2003&hide_title=false&theme=redical&radius=20" height="300" alt="activity-graph graph"  />
 </div>
 
 ### 
 ## 🧑‍💻 LeetCode Stats:
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/jeetleet07?theme=dark&font=Baloo%202&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/jeetleet07?theme=transparent&font=Baloo%202&ext=heatmap)
 
 ###
 
