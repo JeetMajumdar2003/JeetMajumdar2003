@@ -5,10 +5,10 @@
 ###
 <h1 align="center">Hey there 👋,  I'm Jeet</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Jeet+Majumdar;+Welcome+to+My+Profile!;Over+2-years+of+programming+experience;Always+learning+new+things+;Machine+learning+AI+enthusiast+;Tech+Lover+Problem+Solver+with+Code)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Jeet+Majumdar;+Welcome+to+My+Profile!;Over+2-years+of+programming+experience;Always+learning+new+things+;Machine+learning+AI+enthusiast+;Tech+Lover+Problem+Solver+with+Code)](https://git.io/typing-svg) -->
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/graphs/contributors"><img src="https://img.shields.io/github/contributors/JeetMajumdar2003/JeetMajumdar2003?color=blue"></a>
@@ -16,7 +16,7 @@
     <a href="https://github.com/JeetMajumdar2003/JeetMajumdar2003/network/members"><img src="https://img.shields.io/github/forks/JeetMajumdar2003/JeetMajumdar2003.svg?color=blue&logo=github"></a>
     <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/JeetMajumdar2003/JeetMajumdar2003">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=JeetMajumdar2003.JeetMajumdar2003&left_text=Profile%20Visitors:" alt="visitors"/>   
-</p>
+</p> -->
 
 ## 👩‍💻  About me:
 
@@ -51,46 +51,13 @@
   ![LeetCode Stats](https://leetcard.jacoblin.cool/jeetleet07?theme=transparent&font=Baloo%202&ext=heatmap)
 
 ###
-
-## 💻 Learning Roadmaps:
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    DSA-->Data-Structures;
-    DSA-->Algorithms;
-    DSA-->Complexity-Analysis;
-    DSA-->Sorting;
-    DSA-->Searching;
-    DSA-->Graph-Theory;
-    DSA-->Dynamic-Programming;
-```
-```mermaid
-graph TD;
-    Web-Development-->HTML;
-    Web-Development-->CSS;
-    Web-Development-->JavaScript;
-    Web-Development-->Frontend-Frameworks;
-    Web-Development-->Backend-Frameworks;
-    Web-Development-->Databases;
-    Web-Development-->APIs;
-    Web-Development-->Deployment;
-```
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-
+<!--
 ###
 
 ## 🛠 Language and tools:
 
 
-<!--   my-skils -->
+  my-skils
 
 | Property                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +71,7 @@ graph TD;
 | **Cloud Computing Platforms**   | ![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![IBM Cloud Badge](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat&logo=ibm-cloud&logoColor=white) |
 ##### **I am currently learning these technologies and am eager to expand my knowledge in these areas.*
 
-<!-- ## 🛠 Language and tools:
+## 🛠 Language and tools:
 
 
 <div align="left">
@@ -197,7 +164,7 @@ graph TD;
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div> -->
+</div>
 
 ###
 
@@ -235,4 +202,4 @@ graph TD;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JeetMajumdar2003.JeetMajumdar2003&left_text=Profile%20Visitors:"  />
 </div>
 
-###
+### -->
