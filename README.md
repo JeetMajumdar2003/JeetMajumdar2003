@@ -38,7 +38,7 @@
 
 <div align="left">
     <div align="left">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=dracula&show_icons=true&count_private=true&include_all_commits=true"  />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true"  />
     </div>
   <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak stat"  />  <!-- theme=prussian -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
