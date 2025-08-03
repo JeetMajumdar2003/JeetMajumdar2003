@@ -24,27 +24,37 @@
 - 🕉️ I'm a Chemical Engg. Undergrad at Jadavpur University, Kolkata.
 - 🌱 I’m currently learning DSA and Web Development 😀 and working on some cool Projects.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute Open Source projects and grab a dev internship
-- ⚡ Fun fact: I love to watch Pokemon Anime.
+- 🥅 2025 Goals: Contribute Open Source projects and grab a dev internship
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeet-majumdar648/)
 
 
 ###
 
-## 🔥   My Stats :
+## 🔥 My Stats :
 
-<br clear="both">
+<table>
+  <tr>
+    <!-- Left Column -->
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" />
+      <br>
+      <img width="470" src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" alt="streak stat" />
+    </td>
+    <!-- Right Column -->
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" alt="languages graph" />
+      <br>
+    </td>
+  </tr>
+</table>
 
-
+<!-- Full-width Activity Graph -->
 <div align="left">
-    <div align="left">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=JeetMajumdar2003&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true"  />
-    </div>
-  <img src="https://streak-stats.demolab.com?user=JeetMajumdar2003&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak stat"  />  <!-- theme=prussian -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" height="200" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JeetMajumdar2003&no-bg=true&no-frame=false&theme=dracula&margin-w=5" height="180" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeetMajumdar2003&hide_title=false&theme=redical&radius=20" height="300" alt="activity-graph graph"  />
+  <img width="900" src="https://github-profile-trophy.vercel.app?username=JeetMajumdar2003&no-bg=true&no-frame=false&theme=dracula&margin-w=5&row=1" alt="trophy graph" />
+  <br>
+  <img height="300" src="https://github-readme-activity-graph.vercel.app/graph?username=JeetMajumdar2003&hide_title=false&theme=redical&radius=20" alt="activity-graph graph" />
 </div>
+
 
 ### 
 ## 🧑‍💻 LeetCode Stats:
@@ -197,9 +207,9 @@
 [![An image of @jeetu007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeetu007)](https://holopin.io/@jeetu007)
 
 <br clear="both">
-
+-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JeetMajumdar2003.JeetMajumdar2003&left_text=Profile%20Visitors:"  />
 </div>
 
-### -->
+### 
