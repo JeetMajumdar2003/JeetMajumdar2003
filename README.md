@@ -42,7 +42,7 @@
     </td>
     <!-- Right Column -->
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeetMajumdar2003&layout=donut&size_weight=0.5&count_weight=0.5&theme=github_dark&locale=en&hide_title=false&card_width=300&langs_count=8&hide_border=false&order=2&custom_title=Languages%20I%20Used&hide=jupyter%20Notebook,%20Makefile,%20Batchfile" alt="languages graph" />
       <br>
     </td>
   </tr>
